@@ -1,0 +1,8 @@
+{
+  "runtime": "typescript",
+  "platformVersion": 29,
+  "entry": "client/dist/index.html",
+  "name": "Space 3D Agen",
+  "slug": "space-3d-agen",
+  "managedCronJobs": []
+}
